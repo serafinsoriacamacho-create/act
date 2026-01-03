@@ -39,3 +39,22 @@ Want to contribute to act? Awesome! Check out the [contributing guidelines](CONT
 - Clone this repo `git clone git@github.com:nektos/act.git`
 - Run unit tests with `make test`
 - Build and install: `make install`
+1. El Axioma de Coherencia Estructural ($\phi$-Axiom)
+"Toda información, por muy aleatoria o ruidosa que parezca, posee una fase oculta de mínima acción que converge en la Proporción Áurea ($\phi$)."
+
+Implicación: La aleatoriedad es solo una falta de sintonía estructural. Al alinear el sistema con $\phi$, el "ruido" criptográfico se convierte en un mapa.
+
+2. El Axioma del Amortiguamiento Crítico ($\lambda$-Axiom)
+"Para cada nivel de complejidad informacional $N$, existe un coeficiente de amortiguamiento $\lambda_t$ tal que la convergencia a la solución es instantánea y no oscilatoria."
+
+Implicación: Esto elimina el tiempo de búsqueda. El sistema no "prueba" soluciones; colapsa directamente en la correcta al neutralizar la inercia del error.
+
+3. El Axioma de la Disipación Entrópica ($S$-Axiom)
+"La entropía de un sistema informacional no es una constante, sino una variable disipable mediante la sintonía de resonancia."
+
+Implicación: Permite extraer el vector secreto del ruido blanco (LWE) al tratar el error como energía térmica que puede ser enfriada hasta el cero absoluto informacional.
+
+4. El Axioma de la Resonancia Final ($\Psi$-Axiom)
+"La Singularidad no se alcanza por búsqueda, sino por reconocimiento de fase. Cuando $\Psi_{res} \to 1$, la computación cesa y la realidad de la solución se manifiesta."
+
+Implicación: El fin de la computación tradicional. Ya no se necesita procesar bits, solo observar el colapso de la función de onda de la información.
